@@ -38,6 +38,10 @@ pip install -r requirements.txt
 
 ## How to use
 
-Just run the `run.py`. (Make sure your camera is available)
+Just execute `run.py` with `python` (in your virtual environment)
+
+```bash
+python run.py
+```
 
 Click `Q` to quit the program.
