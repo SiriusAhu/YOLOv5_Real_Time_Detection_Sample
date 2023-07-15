@@ -11,7 +11,7 @@ As for the environment, I suggest using `python>=3.8`.
 
 ### Step 1: Clone yolov5 reporsitory
 
-Since this model require `pytorch`, please make sure you have GPU support.(`pytorch CPU` version is also OK, but with lower efficiency)
+Since this model require `pytorch`, please make sure you have GPU support.(`pytorch CPU` version is also OK, but it's with lower efficiency)
 
 ```bash
 git clone https://github.com/ultralytics/yolov5
